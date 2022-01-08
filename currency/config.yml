@@ -1,18 +1,18 @@
 user:
   #username 学号或者工号
-  username: '161105024'
+  username: '2002020204052'
   #tellphone 电话号码
-  tellphone: '15xxxxxxxx8'
+  tellphone: '19837836685'
   #address 地址，定位信息
-  address: 中国xx省xx市xx县xx路
+  address: 河南省开封市尉氏县铁路北街77号
   #email 接受通知消息的邮箱
-  email: 461009747@qq.com
+  email: 3404210434@qq.com
   #school 学校全称
-  school: 福州大学
+  school: 河南牧业经济学院
   #lon 当前位置经度
-  lon: '119.191475'
+  lon: '114.209380'
   #lat 当前位置纬度
-  lat: '26.058264'
+  lat: '34.403064'
   #abnormalReason 反馈信息，不需要可不填
   abnormalReason: 在家
   #photo 签到照片，不需要可不填
